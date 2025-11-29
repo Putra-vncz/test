@@ -1,4 +1,5 @@
 tugas
 deadline
 kuliah
-main ml
+fokus
+code
